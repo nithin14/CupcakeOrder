@@ -7,7 +7,8 @@ send the order.
 
 This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,
 data binding, LiveData, and the Jetpack Navigation component.
-(It's a preorder based app 2$ per cupcake any flavour and 3$ extra if you choose same day delivery)
+
+(It's a preorder based app 2 dollar per cupcake any flavour and 3 dollar extra if you choose same day delivery)
 
 ## Demo
 
